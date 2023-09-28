@@ -1,13 +1,14 @@
 # VBA-challenge
- Module 2 Challenge
+Module 2 Challenge
 
- Marni Jane Vinluan
- 09/28/2023
+Marni Jane Vinluan
+09/28/2023
 
- VBA Challenge/Assignment details are in bootcamp canvas
+VBA Challenge/Assignment details are in bootcamp canvas
 
-Items in Repository 
+Items in Repository
 1 Resources - screenshots of my completed worksheets after running script in VBA
+
 2 Solved alphabetical_testing.xlsx
 3 Solved multiple_year_stockk_data.xlsx
 4 VBA-challenge.bas - VBA script file
